@@ -83,7 +83,7 @@ borrowed.
   Host: localhost
   Port: 1527
   Database: LMS
-  User Name: budhia
+  User Name: haris
   Password: 123
   ``` 
 ![step3](../master/images/step3.PNG)
